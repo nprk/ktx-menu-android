@@ -29,7 +29,7 @@ allprojects {
 
 Add this line to your ```build.gradle``` (module)
 ```bash
-implementation 'com.github.nprk:ktx-menu:0.1.0'
+implementation 'com.github.nprk:ktx-menu-android:0.1.0'
 ```
 
 ## ⌨️ Usage
