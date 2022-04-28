@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomSheetDialogTransparentStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="BottomSheetDialogTransparent" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetDialogTransparentStyle</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <!-- CLICKABLE -->
+    <style name="Clickable">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="Clickable.Background">
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="Clickable.Background.Round">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="Clickable.Foreground">
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="Clickable.Foreground.Round">
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="SelectableItemWhiteTheme">
+        <item name="colorControlHighlight">#80FFFFFF</item>
+    </style>
+    <style name="Clickable.Foreground.White">
+        <item name="android:theme">@style/SelectableItemWhiteTheme</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">3.5sp</item>
+    </style>
+</resources>
