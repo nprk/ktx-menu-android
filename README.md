@@ -1,4 +1,4 @@
-<h1>Ktx Menu</h1>
+<h1>KtxMenu</h1>
 
 [![](https://jitpack.io/v/nprk/ktx-menu-android.svg)](https://jitpack.io/#nprk/ktx-menu-android) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/nprk/ktx-menu)
 [![jCenter](https://img.shields.io/badge/Apache-2.0-green.svg)](https://github.com/nprk/ktx-menu/blob/master/LICENSE)
