@@ -8,7 +8,7 @@
 
 ## Description
 
-Context menu based on android bottom sheet dialog.
+СontextMenu library based on BottomSheetDialog written in Kotlin.
 
 ## Example
 <p align="center">
